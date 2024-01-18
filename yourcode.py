@@ -1,4 +1,4 @@
-def main() :
+def main():
     name = input("What is your name?")
     print("We want to know if you like programming!")
     print()
